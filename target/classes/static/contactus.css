@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+input {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 1rem;
+    margin-top: 1rem;
+}
+
+.contactus_main {
+    padding: 7rem;
+
+}
+
+.cont_form_main {
+    background-image: url(./ontact.png);
+    background-size: cover;
+}
+
+.contactus_main_2 {
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    width: 100%;
+}
+
+.contactus-form-list-2 {
+    line-height: 49px;
+    background-color: rgba(83, 65, 213, 0.8);
+    color: white;
+    height: 407px;
+    position: sticky;
+    /* top: 20rem; */
+    right: 14rem;
+    padding-top: 2rem;
+    width: 33rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    flex: 0 0 33.333333%;
+}
+
+.contactus-form-list-2 p span {
+    font-weight: bold;
+}
+
+/* credit section start  */
+.credit {
+    color: white;
+}
+
+#contactus-section-id {
+    position: fixed;
+    z-index: 124;
+    width: 100%;
+    top: 0rem;
+    height: 100%;
+
+}
+
+.forminputs {
+    flex: 0 0 56.666667%;
+    line-height: 2rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 1rem;
+    height: 406px;
+    border-radius: 1rem 0rem 0rem 1rem;
+
+    padding-top: 2rem;
+}
+
+.cont_message textarea {
+    width: 85%;
+    border-radius: 1rem;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    border: 2px solid black;
+}
+.navbar-nav li a:hover {
+    color: black;
+}
+/* credit section end */

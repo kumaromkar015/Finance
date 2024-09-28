@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FinanceApplication<Finance>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Ranchi.Finance.FinanceApplication",
+            "projectName": "Finance",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
