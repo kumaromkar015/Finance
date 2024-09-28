@@ -65,4 +65,4 @@ next_income.addEventListener('click' , ()=>{
     Financial_information_section.style.display = "block";
     loanform_main_2.style.display = 'none';
     perinfo.style.display = 'none';
-})
+});
