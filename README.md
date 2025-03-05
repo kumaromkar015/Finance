@@ -90,10 +90,10 @@ Contributions are welcome! To contribute:
 4. Push to GitHub and create a PR.
 
 ## 📬 Contact
-- **Developer:** Your Name
-- **Email:** your-email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **Developer:** Omkar kumar sandilay
+- **Email:** kumaromkar015@gmail.com  
+- **GitHub:** [GitHub Profile](https://github.com/kumaromkar015)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/omkarshandilya42)
 
 
 
